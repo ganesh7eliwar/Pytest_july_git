@@ -46,3 +46,19 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
 1690866484624	Marionette	INFO	Stopped listening on port 52205
 Dynamically enable window occlusion 1
+1690875441531	geckodriver	INFO	Listening on 127.0.0.1:57296
+1690875444624	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57297" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nomul\\AppData\\Local\\Temp\\rust_mozprofilepFmAZp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690875445685	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690875445959	Marionette	INFO	Listening on port 57313
+WebDriver BiDi listening on ws://127.0.0.1:57297
+Read port: 57313
+1690875446612	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57297/devtools/browser/0df9ae0d-3ca4-4da7-aa87-b6f86c4eca34
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automation.credence.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automation.credence.in."
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1690875459353	Marionette	INFO	Stopped listening on port 57313
+Dynamically enable window occlusion 1
