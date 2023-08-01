@@ -1,0 +1,48 @@
+1690865997730	geckodriver	INFO	Listening on 127.0.0.1:51909
+1690866000861	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51910" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nomul\\AppData\\Local\\Temp\\rust_mozprofileorlwC5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690866001711	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690866001967	Marionette	INFO	Listening on port 51919
+WebDriver BiDi listening on ws://127.0.0.1:51910
+Read port: 51919
+1690866002588	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:51910/devtools/browser/9cccb929-d0d5-4d19-ae9e-dc51d168ad14
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automation.credence.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automation.credence.in."
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1690866012008	Marionette	INFO	Stopped listening on port 51919
+Dynamically enable window occlusion 1
+1690866233923	geckodriver	INFO	Listening on 127.0.0.1:52041
+1690866236940	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52042" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nomul\\AppData\\Local\\Temp\\rust_mozprofileCcGhiC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690866237924	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690866238369	Marionette	INFO	Listening on port 52051
+WebDriver BiDi listening on ws://127.0.0.1:52042
+Read port: 52051
+1690866239558	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52042/devtools/browser/caf8a724-a253-40e6-9efe-d281dd2294c7
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automation.credence.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automation.credence.in."
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1690866252275	Marionette	INFO	Stopped listening on port 52051
+Dynamically enable window occlusion 1
+1690866465968	geckodriver	INFO	Listening on 127.0.0.1:52195
+1690866469057	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\nomul\\AppData\\Local\\Temp\\rust_mozprofileDUVsqg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1690866470135	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1690866470505	Marionette	INFO	Listening on port 52205
+WebDriver BiDi listening on ws://127.0.0.1:52196
+Read port: 52205
+1690866471247	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:52196/devtools/browser/d071f345-941c-43f5-b006-ea4159fdd142
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automation.credence.in."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://automation.credence.in."
+JavaScript error: https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js, line 6: Error: Bootstrap's JavaScript requires jQuery
+1690866484624	Marionette	INFO	Stopped listening on port 52205
+Dynamically enable window occlusion 1
